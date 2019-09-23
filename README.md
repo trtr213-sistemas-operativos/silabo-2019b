@@ -44,7 +44,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
      * Se formarán grupos y cada grupo tendrá que elegir un tema.
      * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
 
-{% COMENTADO %}
+{% comment %}
 
 <!---
 ### Clase 3 - Introducción a los procesos (08/04/2019)
@@ -243,8 +243,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
 ---> 
-
-{% FINCOMENTADO %}
+ {% endcomment %}
 
 ## Deberes/Proyectos
 
