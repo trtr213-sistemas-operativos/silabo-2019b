@@ -43,8 +43,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
      * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
      * Se formarán grupos y cada grupo tendrá que elegir un tema.
      * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
-     
- <!---
+
+{%
+<!---
+
+
+
 ### Clase 3 - Introducción a los procesos (08/04/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbXvkIQDJSBPt7ciNWY09TkBVuI7U10-SqdRTVLH8GfCug?e=Fhn4gU)
   
@@ -237,7 +241,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ## EXAMEN FINAL
   [Ver examen final](https://forms.gle/8NJrfwd2emkRwdmMA)
-  --->
+
+
+
+--->
+%}
 
 ## Deberes/Proyectos
 
