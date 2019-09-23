@@ -43,6 +43,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
      * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
      * Se formarán grupos y cada grupo tendrá que elegir un tema.
      * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
+{% Hola %}
 {% 
 <!---
 ### Clase 3 - Introducción a los procesos (08/04/2019)
