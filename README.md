@@ -1,6 +1,6 @@
 # Sílabo para Sistemas Operativos (TRTR213) ESFOT-EPN 2019B
 
-* **Materia:** TRTR213 Sistemas Operativos 2019A
+* **Materia:** TRTR213 Sistemas Operativos
 * **Lugar:** TECET 14
 * **Horario:**  Lunes de 7:00 a 9:00, Martes de 10:00 a 13:00, Viernes de 9:00 a 10:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
