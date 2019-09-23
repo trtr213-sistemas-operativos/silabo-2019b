@@ -241,8 +241,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
 
---->
-%}
+---> %}
 
 ## Deberes/Proyectos
 
