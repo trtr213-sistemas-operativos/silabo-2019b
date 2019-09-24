@@ -34,7 +34,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 2 - Introducción a los SO (24/09/2019)
   * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
 
-  * **Taller de ideas para proyecto bimestre 1 (05/04/2019)**
+  * **Taller de ideas para proyecto bimestre 1**
     * Pensar en ideas para proyecto del primer bimestre. Los temas deben estar relacionados con los sitemas operativos, demostración de funcionalidades especiales, novedades de actualizaciones, comparaciones, nuevos sistemas operativos en el mercado, etc.
     
     * El proyecto debe consitir en:
