@@ -46,11 +46,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
      * Se formarán grupos y cada grupo tendrá que elegir un tema.
      * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
 
-{% comment %}
-
 
 ### Clase 3 - Introducción a los procesos (08/04/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbXvkIQDJSBPt7ciNWY09TkBVuI7U10-SqdRTVLH8GfCug?e=Fhn4gU)
+
+
+{% comment %}
 
 <!---
 ### Clase 4 - Preguntas Windows 10 (09/04/2019)
