@@ -266,7 +266,7 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 
 * Ingresar a [PeerWise](https://peerwise.cs.auckland.ac.nz)
 * Registrarse con el usuario del tipo `nombreapellido`
-* **ID del curso:** 20054, su identificador es su email personal registrado en el SAEw.
+* **ID del curso:** 20054, su identificador es su email institucional registrado en el SAEw.
 * Realizar al menos 5 preguntas semanales en PeerWise relacionadas con la materia. Preguntas de opción múltiple. Pueden ser ejercicios similares a los deberes o videos.
 * Responder al menos 5 preguntas semanales de sus compañeros.
 * La nota será definida según la participación que hayan tenido en PeerWise, el tipo de preguntas que hayan realizado y el número de preguntas que hayan respondido y la dificultad de las preguntas respondidas.
