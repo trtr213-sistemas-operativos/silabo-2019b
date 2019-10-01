@@ -52,6 +52,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
 ### Clase 4 - Preguntas Windows 10 (09/04/2019)
+  * [Archivo Lista](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/EbTDH_vqe4hArO5AUtqqSIwBmSoD0TWqlvuzGBh7aWxpaA?e=Sg9GQq)
   * [Descargar preguntas](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPOB1zyFu1Ahub02DmLgpcBeQzrHkzrLRzuZ0JGJSGfFQ?e=jknlN1)
   * Entregar vía Turnitin. Revisar el correo de Turnitin que debe haber llegado a sus correos personales. Hacer clic en "Generar clave", ingresar su correo personal y sus **DOS APELLIDOS**. Subir el documento con las preguntas respondidas en formato PDF.
   * Las preguntas deben incluir las definiciones o conceptos e incluir la lista de pasos y capturas de pantalla en caso de ser necesario.
