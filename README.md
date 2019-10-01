@@ -51,9 +51,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbXvkIQDJSBPt7ciNWY09TkBVuI7U10-SqdRTVLH8GfCug?e=Fhn4gU)
 
 
-{% comment %}
-
-<!---
 ### Clase 4 - Preguntas Windows 10 (09/04/2019)
   * [Descargar preguntas](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPOB1zyFu1Ahub02DmLgpcBeQzrHkzrLRzuZ0JGJSGfFQ?e=jknlN1)
   * Entregar vía Turnitin. Revisar el correo de Turnitin que debe haber llegado a sus correos personales. Hacer clic en "Generar clave", ingresar su correo personal y sus **DOS APELLIDOS**. Subir el documento con las preguntas respondidas en formato PDF.
@@ -61,6 +58,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Por ahora será mayormente investigación de las preguntas, la siguiente clase se realizará el proceso de instalación de VirtualBox y Windows 10.
   * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio en la Marcelo Dávila** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
 
+
+{% comment %}
+
+<!---
 ### Clase 5 - Instalación y configuración de Windows 10 (15/04/2019)
   * Instalar VirtualBox
   * Crear una máquina virtual
