@@ -57,7 +57,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Entregar vía Turnitin. Revisar el correo de Turnitin que debe haber llegado a sus correos personales. Hacer clic en "Generar clave", ingresar su correo personal y sus **DOS APELLIDOS**. Subir el documento con las preguntas respondidas en formato PDF.
   * Las preguntas deben incluir las definiciones o conceptos e incluir la lista de pasos y capturas de pantalla en caso de ser necesario.
   * Por ahora será mayormente investigación de las preguntas, la siguiente clase se realizará el proceso de instalación de VirtualBox y Windows 10.
-  * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio en la Marcelo Dávila** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
+  * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
 
 
 {% comment %}
