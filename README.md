@@ -44,24 +44,25 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
      * Parte práctica (60%): Presentación en clase sobre una demostración de lo investigado.
      * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
      * Se formarán grupos y cada grupo tendrá que elegir un tema.
-     * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
+     * La fecha de presentación se definirá más adelante (antes de la fecha del examen del 1 bimestre).
 
 
-### Clase 3 - Introducción a los procesos (08/04/2019)
+### Clase 3 - Introducción a los procesos
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbXvkIQDJSBPt7ciNWY09TkBVuI7U10-SqdRTVLH8GfCug?e=Fhn4gU)
 
 
-### Clase 4 - Preguntas Windows 10 (09/04/2019)
+### Clase 4 - Preguntas Windows 10
   * [Archivo Lista](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/EbTDH_vqe4hArO5AUtqqSIwBmSoD0TWqlvuzGBh7aWxpaA?e=Sg9GQq)
   * [Descargar preguntas](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPOB1zyFu1Ahub02DmLgpcBeQzrHkzrLRzuZ0JGJSGfFQ?e=jknlN1)
   * Entregar vía Turnitin. Revisar el correo de Turnitin que debe haber llegado a sus correos personales. Hacer clic en "Generar clave", ingresar su correo personal y sus **DOS APELLIDOS**. Subir el documento con las preguntas respondidas en formato PDF.
   * Las preguntas deben incluir las definiciones o conceptos e incluir la lista de pasos y capturas de pantalla en caso de ser necesario.
   * Por ahora será mayormente investigación de las preguntas, la siguiente clase se realizará el proceso de instalación de VirtualBox y Windows 10.
+
+
+### Clase 5 - Estados de procesos (15/10/2019)
+  * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
   * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
-
-
-{% comment %}
-
+  
 <!---
 ### Clase 5 - Instalación y configuración de Windows 10 (15/04/2019)
   * Instalar VirtualBox
@@ -73,8 +74,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
   * Entregar en el Turnitin
   
-### Clase 7 - Estados de procesos (22/04/2019)
-  * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
+
   
 ### Clase 8 - Sistemas Operativos clásicos
   * Investigar sobre los siguientes sistemas operativos:
@@ -249,7 +249,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
 ---> 
- {% endcomment %}
 
 ## Deberes/Proyectos
 
