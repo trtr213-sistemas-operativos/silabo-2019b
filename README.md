@@ -62,6 +62,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 5 - Estados de procesos (15/10/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
   * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
+  * [Leer el artículo](https://www.xataka.com/especiales/como-seria-mundo-tecnologia-hoy-dia-software-libre-ideas-richard-stallman). Anotar e investigar sobre todo lo nuevo que encuentren en el articulo, para compartirlo con los demás
   
 <!---
 ### Clase 5 - Instalación y configuración de Windows 10 (15/04/2019)
