@@ -64,20 +64,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
   * [Leer el artículo](https://www.xataka.com/especiales/como-seria-mundo-tecnologia-hoy-dia-software-libre-ideas-richard-stallman). Anotar e investigar sobre todo lo nuevo que encuentren en el articulo, para compartirlo con los demás
   
-<!---
-### Clase 5 - Instalación y configuración de Windows 10 (15/04/2019)
-  * Instalar VirtualBox
-  * Crear una máquina virtual
-  * Instalar W10
-  * Realizar informe del proceso con capturas de pantalla y subir en el Turnitin
   
-### Clase 6 - Taller de preguntas de Windows 10 (16/04/2019)
-  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
-  * Entregar en el Turnitin
-  
-
-  
-### Clase 8 - Sistemas Operativos clásicos
+### Clase 6 - Hilos - Sistemas operativos clásicos (21/10/2019)
+  * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
+  * [Artículo](https://www.gnu.org/gnu/manifesto.es.html)
   * Investigar sobre los siguientes sistemas operativos:
     * Windows 1.01 [Emulador](https://classicreload.com/Windows-1-01.html)
     * PC DOS 5 [Emulador](http://jamesfriend.com.au/pce-js/ibmpc-games/)
@@ -97,9 +87,20 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * Versión actual del sistema operativo
   * Entregar via Turnitin
   
-### Clase 9 - Hilos
-  * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
+### Clase 7 - Taller Windows 10
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
+  * Entregar en el Turnitin
+
+### Clase 8 - Instalación y configuración de Windows 10
+  * Instalar VirtualBox
+  * Crear una máquina virtual
+  * Instalar W10
+  * Realizar informe del proceso con capturas de pantalla y subir en el Turnitin
   
+<!---
+
+    
+   
 ### Clase 10 - Comandos en Windows
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
   
