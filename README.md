@@ -67,7 +67,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 6 - Hilos - Sistemas operativos clásicos (21/10/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
-  * [Artículo](https://www.gnu.org/gnu/manifesto.es.html)
   * Investigar sobre los siguientes sistemas operativos:
     * Windows 1.01 [Emulador](https://classicreload.com/Windows-1-01.html)
     * PC DOS 5 [Emulador](http://jamesfriend.com.au/pce-js/ibmpc-games/)
@@ -90,6 +89,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 7 - Taller Windows 10
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
   * Entregar en el Turnitin
+  * [Artículo El Manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
 
 ### Clase 8 - Instalación y configuración de Windows 10
   * Instalar VirtualBox
