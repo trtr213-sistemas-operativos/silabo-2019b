@@ -89,17 +89,20 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 7 - Taller Windows 10
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
   * Entregar en el Turnitin
-  * [Artículo El Manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
 
 ### Clase 8 - Instalación y configuración de Windows 10
   * Instalar VirtualBox
   * Crear una máquina virtual
   * Instalar W10
   * Realizar informe del proceso con capturas de pantalla y subir en el Turnitin
+  * [Artículo El Manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
   
-<!---
+### Clase 9 - 
 
-    
+### Clase 10 - Prueba bimestre 1 (05/11/2019)
+
+
+<!--- 
    
 ### Clase 10 - Comandos en Windows
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
