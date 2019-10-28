@@ -222,8 +222,7 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 | ----------------------  | ---------- |
 | Prueba parcial          | 20%        |
 | Deberes y consultas     | 20%        |
-| Trabajo grupal          | 20%        |
-| Participación (Peerwise)| 10%        |
+| Trabajo grupal          | 30%        |
 | Examen                  | 30%        |
 
 ## Bibliografía
