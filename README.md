@@ -98,7 +98,23 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Artículo El Manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
   
 ### Clase 9 - Comandos en Windows
-  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
+  * **Actualización Windows 10 (1903)**
+    * ¿Qué es el Windows Insider, como suscribirse, que ventajas tiene?
+    * ¿Cómo descargo la actualización 1903 de W10?
+    * ¿Como activar el Light Theme de W10?
+    * ¿Qué el almacenamiento reservado que maneja W10?
+    * ¿Como se activa el Windows Sandbox y para que sirve?
+    * ¿Como funciona las actualaciones de W10 que novedades tienen, como puede retrasarlas?
+    * ¿En que consiste el cambio de búsqueda separada con Cortana?
+    * ¿Como activar la búsqueda mejorada, en que consiste, ventajas?
+    * ¿Como puedo personalizar el cursor?
+    * ¿Cambios en el Administrador de tareas?
+    * ¿Cambios o mejoras en Windows Emoji?
+    * ¿Como puedo sincronizar el reloj de la computador con los servidores de Microsoft?
+    * ¿Cambios en la herramienta Recortes (Snapshot), acccesos con el teclado?
+    * ¿Cuál es el nuevo acceso a las configuraciones de IP?
+    * ¿Mejoras en el explorador de archivos?
+  * [Descargar taller comandos en Windows 10](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
 
 ### Clase 10 - Prueba bimestre 1 (05/11/2019)
 
@@ -129,59 +145,17 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 20 - Presentaciones (10/12/2019)
 
+### Clase 21 - Redirección de E/S y Tuberias
+  * Práctica Redirección de E/S y Tuberias
 
-<!--- 
+### Clase 22 - Gestión de memoria
+  * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQpEg3qg8jJAkImszyRCvRABMn554n9M-P_mlNSGEVZq0w?e=vKIkI1)
+  * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
 
-### Clase 20 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
-  * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
-    * ¿Qué es?
-    * ¿Desde cuando está disponible?
-    * ¿Porqué Microsoft incluyó esta característica en Windows?
-    * ¿Qué problemas ha tenido el WSL y como los ha solucionado Microsoft?
-    * ¿De que manera mejorará en las siguientes actualizaciones?
-    * ¿Qué distribuciones de Linux puedo instalar?
-    * Pasos para activar esta característica
-
-### Clase 21 - Planificador de Procesos
-  * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ET7HTNQFeP5KsBsFfwsKxZkBdSIgRV-63Q8OeyOHo24JZw?e=LROmQs)
-  * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPCVq17Y9ZPvmRQC9oHTHkBPKYSjafL-51YIVdsJ22sHA?e=NgEG25)
-  * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
-    * ¿Qué determina si una computadora es de 32 bits o de 64 bits?
-    * ¿Qué cantidad de RAM soporta un sistma de 32 bits y uno de 64 bits?
-    * ¿En qué se diferencia un Windows de 32 bits y uno de 64 bits (Program Files)?
-    * ¿Diferencia entre programas de 32 bits y 64 bits - compatibilidad de programas?
-    * ¿Cómo determinar si la versión de Windows es de 32 bits o de 64 bits?
-    * ¿Cómo se puede pasar de un sistema de 32 bits a uno de 64 bits?
-    * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
-    * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
-
-### Clase 22 - Redirección de E/S y Tuberias
-  * Práctica. Redirección de E/S y Tuberias.
-  
-### Clase 23 - Gestión de memoria
-  * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eb4L5C6DAftCp7XOso8byYwBBq3OnCpgfJ8KTLmayuvXzA?e=gMPpbv)
-  * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ9sELw574RLnj426nyRy1wBElwepiYL-JH2xqXtECrq9A?e=L1xovg)
-
-### Clase 24 - Práctica Comandos Linux.
+### Clase 23 - Práctica Comandos Linux.
   * Trabajar en archivos de 100 comandos Linux.
-  * **Consulta. Actualización Windows 10 (1903)**
-    * ¿Qué es el Windows Insider, como suscribirse, que ventajas tiene?
-    * ¿Cómo descargo la actualización 1903 de W10?
-    * ¿Como activar el Light Theme de W10
-    * ¿Qué el almacenamiento reservado que maneja W10?
-    * ¿Como se activa el Windows Sandbox y para que sirve?
-    * ¿Como funciona las actualaciones de W10 que novedades tienen, como puede retrasarlas?
-    * ¿En que consiste el cambio de búsqueda separada con Cortana?
-    * ¿Como activar la búsqueda mejorada, en que consiste, ventajas?
-    * ¿Como puedo personalizar el cursor?
-    * ¿Cambios en el Administrador de tareas?
-    * ¿Cambios o mejoras en Windows Emoji?
-    * ¿Como puedo sincronizar el reloj de la computador con los servidores de Microsoft?
-    * ¿Cambios en la herramienta Recortes (Snapshot), acccesos con el teclado?
-    * ¿Cuál es el nuevo acceso a las configuraciones de IP?
-    * ¿Mejoras en el explorador de archivos?
-    
- ### Clase 25 - Gestión de Usuarios
+
+ ### Clase 24 - Gestión de Usuarios
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
   * **Temas de proyectos finales**
    1. Instalación de doble booteo con Windows y Linux desde un USB
@@ -192,58 +166,25 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    1. Soluciones a problemas comunes en Windows y Linux
    1. Debian vs RedHat y Ubuntu vs Fedora
     
- ### Clase 26 - Gestion de permisos   
-   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQf6xspisTtFj4t4u2MCx5YBBgsDiE5erje2ia5Hlq5REw?e=ZztB1D)
-   * Grupo 1 - 3. Herramientas para clonación de discos en Windows y Linux
-      * CANTUÑA OÑA RAUL IVAN
-      * BURBANO LASSO JOHAN SEBASTIAN
-      * ESCOBAR LEON ANDRES ALEJANDRO
-      * SALAZAR ROBAYO BYRON EDUARDO	
-   * Grupo 2 - 6. Soluciones a problemas comunes en Windows y Linux
-     * PITACUAR SORIA PABLO EDUARDO
-     * TIXI ALULEMA LUIS RENE
-     * MALDONADO SIMBAÑA NIPSON FREDDY	
-   * Grupo 3 - 5. Sistema de respaldo y restauración en Windows y Linux
-     * INCERRI PINTO JUNIEL SEBASTIAN
-     * LUDEÑA ROSERO LIZBETH MISHELL
-     * SIMBA MERA JHON SEBASTIAN
-   * Grupo 4 - 2. Herramientas para partición de discos en Windows y Linux
-     * VARGAS COFRE CARLOS EDUARDO
-     * SOLEDISPA PILLAJO VICTOR XAVIER
-     * ZURITA MALDONADO ISRAEL ALEXANDER	
-  * Grupo 5 - 7. Debian vs RedHat y Ubuntu vs Fedora
-    * QUINTANILLA ARMIJO JOEL ALEXIS
-    * PILATUÑA COLLAGUAZO MAURICIO DAVID
-    * COLLAGUAZO VASQUEZ ERICK ARIEL	
-  * Grupo 6 - 4. Herramientas de control y acceso remoto en Windows y Linux
-    * VELASTEGUI DUEÑAS CARLOS ANDRES
-    * SANCHEZ LEON MICHAEL ALEJANDRO
-  * Grupo 7 - 1. Instalación de doble booteo con Windows y Linux desde un USB
-    * PROAÑO GUERRERO CESAR ANDRES
-    * CALDERON FERNANDEZ ARIEL ESTEBAN
-    * RIVERA CAMPOVERDE JESSENIA PATRICIA
-    
- ### Clase 27 - Prueba
-
- ### Clase 28 - 
+ ### Clase 25 - Gestion de permisos 
+  * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQoq8Rq2ST1EqHtPoOIBvooBzj0Bq3Kxllju7KS_ZT7-ww?e=rg0ydr)
  
- ### Clase 29 - Ubuntu Server
-   * [Configuración inicial Ubuntu server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQXI2SERHXJDmg5_cosbXVcBIyChDQo41YT3jzTLrVrZyA?e=KAsND9)
-   * [Instalar LAMP](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERQ7KfbyVDdKl5XTuGCOeCwBxqYGcBhBQcQDZah3IsMZhg?e=Qbv7bq)
-   * [Guía Bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EViCK2IyKaJCr_LtNtVynOYBSWHdVLs25BP4F7nTESC7xQ?e=teM0rD)
-   
- ### Clase 30 - 
+ ### Clase 26 - Prueba
+  * [Prueba]()
+  
+ ### Clase 27 - Prueba
+  * [Prueba](https://forms.gle/anZ721wFG6vJ8Mur9)
+  
+ ### Clase 28 - Servidores
+  * [Configuración inicial Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ0C4ZCmyIJHiyDj8FIPZXMBBihEpbYDsNFaCfaOmwU1xA?e=1wdSAy)
+  * [Instalación de LAMPP en Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eeb7MKEWBexGp8SmnA1CFzsBbAiWwVoCNqbbE9MwLy0KpQ?e=xpNeiD)
+  * [Guía bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EZZs53U8XgpApFUmrAHW-S0BgpMQLSF2Wm5DAaxeMK1BmA?e=orj0vF)
+  
+ ### Clase 29 - 
    * [Guía de comando SCP](http://www.hypexr.org/linux_scp_help.php)
-   * **Entrega de 100 comandos Linux martes 16 julio**
-   
-   
-## Respuesta a pregunta 71 de los 100 comandos Linux
-  * `find  . -type f -user pedro -iregex ".*[0-9].*" -exec cp {} DIRECTORIO_DESTINO \;`
-  
-  
-### Ejercicios de Repaso
-  [Descargar](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EdYLmQJZ5UdLovtnIgfikw8Bfo_m58tdWUDMiy3G34JpWQ?e=hjAZ9f)
 
+
+<!--- 
 
 ### Examen
   [Ver examen](https://forms.gle/cpJXEyVaVLRySfZUA)
