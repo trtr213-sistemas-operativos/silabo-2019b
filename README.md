@@ -118,11 +118,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 10 - Prueba bimestre 1 (05/11/2019)
 
-### Clase 11 - Instalación Ubuntu
-  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ1O0Vrbq99MgvYWtn2w49EBKw5ka8F1kgMGvow1qmYNnA?e=ba3gPv)
+### Clase 11 - Ejecución de comandos en W10
+  * [Descargar taller comandos en Windows 10](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
   
-### Clase 12 - Concurrencia de procesos
-  * [Descargar](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EesM06NOVbJEjMkDc2v_LnYB1muG92S1_QA2n3hv1CvBWQ?e=aVq5iA)
+### Clase 12 - Instalación Ubuntu
+  * [Concurrencia de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EesM06NOVbJEjMkDc2v_LnYB1muG92S1_QA2n3hv1CvBWQ?e=aVq5iA)
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ1O0Vrbq99MgvYWtn2w49EBKw5ka8F1kgMGvow1qmYNnA?e=ba3gPv)  
 
 ### Clase 13 - Introducción a comandos Linux
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Ea_eNicVqUJCsm-XiMF4BHUBWS5doawuJD10DCmTJC9RoA?e=POadGn)
@@ -135,9 +136,28 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 15 - Ejercicios comandos Linux
   * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf) Este documento se irá trabajando en diferentes clases a medida que se vaya avanzando en los temas de la terminal de Linux.  
 
-### Clase 16 - 
+### Clase 16 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
+  * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
+    * ¿Qué es?
+    * ¿Desde cuando está disponible?
+    * ¿Porqué Microsoft incluyó esta característica en Windows?
+    * ¿Qué problemas ha tenido el WSL y como los ha solucionado Microsoft?
+    * ¿De que manera mejorará en las siguientes actualizaciones?
+    * ¿Qué distribuciones de Linux puedo instalar?
+    * Pasos para activar esta característica
 
-### Clase 17 - 
+### Clase 17 - Planificador de Procesos
+  * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
+  * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaY3TGf4LBRCj0Ekn81GOTwBOeTMNh9Y0e72KH0RfdIsOA?e=HvVSNH)
+  * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
+    * ¿Qué determina si una computadora es de 32 bits o de 64 bits?
+    * ¿Qué cantidad de RAM soporta un sistma de 32 bits y uno de 64 bits?
+    * ¿En qué se diferencia un Windows de 32 bits y uno de 64 bits (Program Files)?
+    * ¿Diferencia entre programas de 32 bits y 64 bits - compatibilidad de programas?
+    * ¿Cómo determinar si la versión de Windows es de 32 bits o de 64 bits?
+    * ¿Cómo se puede pasar de un sistema de 32 bits a uno de 64 bits?
+    * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
+    * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
 
 ### Clase 18 - Examen (03/12/2019)
 
