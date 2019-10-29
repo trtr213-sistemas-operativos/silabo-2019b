@@ -99,21 +99,21 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 9 - Comandos en Windows
   * **Actualización Windows 10 (1903)**
-    * ¿Qué es el Windows Insider, como suscribirse, que ventajas tiene?
-    * ¿Cómo descargo la actualización 1903 de W10?
-    * ¿Como activar el Light Theme de W10?
-    * ¿Qué el almacenamiento reservado que maneja W10?
-    * ¿Como se activa el Windows Sandbox y para que sirve?
-    * ¿Como funciona las actualaciones de W10 que novedades tienen, como puede retrasarlas?
-    * ¿En que consiste el cambio de búsqueda separada con Cortana?
-    * ¿Como activar la búsqueda mejorada, en que consiste, ventajas?
-    * ¿Como puedo personalizar el cursor?
-    * ¿Cambios en el Administrador de tareas?
-    * ¿Cambios o mejoras en Windows Emoji?
-    * ¿Como puedo sincronizar el reloj de la computador con los servidores de Microsoft?
-    * ¿Cambios en la herramienta Recortes (Snapshot), acccesos con el teclado?
-    * ¿Cuál es el nuevo acceso a las configuraciones de IP?
-    * ¿Mejoras en el explorador de archivos?
+    * ¿Qué es el Windows Insider, como suscribirse, que ventajas tiene?	"ACHIG TIPAN LILIANA ALEXANDRA PEREZ CHAVEZ FELIX ADRIAN"
+    * ¿Cómo descargo la actualización 1903 de W10?	"CAIZA TOCAGON JEFERSSON XAVIER VEGA PAZMIÑO ROMMEL JOSUE"
+    * ¿Como activar el Light Theme de W10?	TAYUPANTA QUINGA BRAYAN DARIO
+    * ¿Qué el almacenamiento reservado que maneja W10?	GUALOTO RAMIREZ JEFFERSON FRANCISCO
+    * ¿Como se activa el Windows Sandbox y para que sirve?	"GAROFALO NOLE HEIDY SHAKIRA RODRIGUEZ ORTIZ FRANCIS LIZETH"
+    * ¿Como funciona las actualaciones de W10 que novedades tienen, como puede retrasarlas?	GUERRERO CASTAÑEDA JUAN CARLOS
+    * ¿En que consiste el cambio de búsqueda separada con Cortana?	HIDALGO PORTILLO ERICK ESTEBAN
+    * ¿Como activar la búsqueda mejorada, en que consiste, ventajas?	JANETA AULLA JUAN SEBASTIAN
+    * ¿Como puedo personalizar el cursor?	MALES MALDONADO STALIN JEFFERSON
+    * ¿Cambios en el Administrador de tareas?	ÑACATO ANDRANGO CHRISTIAN DAVID
+    * ¿Cambios o mejoras en Windows Emoji?	TEPAN SILVA ERICK DAMIAN
+    * ¿Como puedo sincronizar el reloj de la computador con los servidores de Microsoft?	VALLEJO GUALACEO PATRICIO SEBASTIAN
+    * ¿Cambios en la herramienta Recortes (Snapshot), acccesos con el teclado?	ROBALINO ALCIVAR JENNIFER ALEXANDRA
+    * ¿Cuál es el nuevo acceso a las configuraciones de IP?	RODRIGUEZ ORTIZ FRANCIS LIZETH
+    * ¿Mejoras en el explorador de archivos?	"SALAZAR ROBAYO BYRON EDUARDO PINEDA SUAREZ MAYLEE NICOL"
   * [Descargar taller comandos en Windows 10](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
 
 ### Clase 10 - Prueba bimestre 1 (05/11/2019)
