@@ -149,6 +149,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 17 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
   * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaY3TGf4LBRCj0Ekn81GOTwBOeTMNh9Y0e72KH0RfdIsOA?e=HvVSNH)
+  * Juego en la terminal de Linux. Ejecutar:
+    * `cd ~`
+    * `sudo apt install git`
+    * `git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl`
+    * `cat bashcrawl/README.txt` Seguir las instrucciones.
   * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
     * ¿Qué determina si una computadora es de 32 bits o de 64 bits?
     * ¿Qué cantidad de RAM soporta un sistma de 32 bits y uno de 64 bits?
