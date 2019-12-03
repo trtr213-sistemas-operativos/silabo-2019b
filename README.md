@@ -165,6 +165,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
 
 ### Clase 18 - Examen (03/12/2019)
+  * [Examen](https://forms.gle/Vu9gJcjuJH2CRoURA)
 
 ### Clase 19 - Presentaciones (09/12/2019)
 
