@@ -174,6 +174,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 21 - Redirección de E/S y Tuberias
   * Práctica Redirección de E/S y Tuberias
 
+<!--- 
+
 ### Clase 22 - Gestión de memoria
   * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQpEg3qg8jJAkImszyRCvRABMn554n9M-P_mlNSGEVZq0w?e=vKIkI1)
   * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
@@ -208,9 +210,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
  ### Clase 29 - 
    * [Guía de comando SCP](http://www.hypexr.org/linux_scp_help.php)
-
-
-<!--- 
 
 ### Examen
   [Ver examen](https://forms.gle/cpJXEyVaVLRySfZUA)
