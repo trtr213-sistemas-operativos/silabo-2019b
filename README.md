@@ -136,7 +136,30 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 15 - Ejercicios comandos Linux
   * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf) Este documento se irá trabajando en diferentes clases a medida que se vaya avanzando en los temas de la terminal de Linux.  
 
-### Clase 16 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
+### Clase 16 - Examen (03/12/2019)
+  * [Examen](https://forms.gle/Vu9gJcjuJH2CRoURA)
+
+### Clase 17 - Presentaciones (09/12/2019)
+
+### Clase 18 - Presentaciones (10/12/2019)
+
+### Clase 19 - Redirección de E/S y Tuberias
+  * Práctica Redirección de E/S y Tuberias
+
+<!--- 
+
+ ### Clase 20 - Gestión de Usuarios
+   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
+  * **Temas de proyectos finales**
+   1. Instalación de doble booteo con Windows y Linux desde un USB
+   1. Herramientas para partición de discos en Windows y Linux
+   1. Herramientas para clonación de discos en Windows y Linux
+   1. Herramientas de control y acceso remoto en Windows y Linux
+   1. Sistema de respaldo y restauración en Windows y Linux
+   1. Soluciones a problemas comunes en Windows y Linux
+   1. Debian vs RedHat y Ubuntu vs Fedora
+   
+### Clase 21 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
   * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
     * ¿Qué es?
     * ¿Desde cuando está disponible?
@@ -146,7 +169,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Qué distribuciones de Linux puedo instalar?
     * Pasos para activar esta característica
 
-### Clase 17 - Planificador de Procesos
+### Clase 22 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
   * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaY3TGf4LBRCj0Ekn81GOTwBOeTMNh9Y0e72KH0RfdIsOA?e=HvVSNH)
   * Juego en la terminal de Linux. Ejecutar:
@@ -164,35 +187,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
     * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
 
-### Clase 18 - Examen (03/12/2019)
-  * [Examen](https://forms.gle/Vu9gJcjuJH2CRoURA)
-
-### Clase 19 - Presentaciones (09/12/2019)
-
-### Clase 20 - Presentaciones (10/12/2019)
-
-### Clase 21 - Redirección de E/S y Tuberias
-  * Práctica Redirección de E/S y Tuberias
-
-<!--- 
-
-### Clase 22 - Gestión de memoria
+### Clase 23 - Gestión de memoria
   * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQpEg3qg8jJAkImszyRCvRABMn554n9M-P_mlNSGEVZq0w?e=vKIkI1)
   * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
 
-### Clase 23 - Práctica Comandos Linux.
+### Clase 24 - Práctica Comandos Linux.
   * Trabajar en archivos de 100 comandos Linux.
-
- ### Clase 24 - Gestión de Usuarios
-   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
-  * **Temas de proyectos finales**
-   1. Instalación de doble booteo con Windows y Linux desde un USB
-   1. Herramientas para partición de discos en Windows y Linux
-   1. Herramientas para clonación de discos en Windows y Linux
-   1. Herramientas de control y acceso remoto en Windows y Linux
-   1. Sistema de respaldo y restauración en Windows y Linux
-   1. Soluciones a problemas comunes en Windows y Linux
-   1. Debian vs RedHat y Ubuntu vs Fedora
     
  ### Clase 25 - Gestion de permisos 
   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQoq8Rq2ST1EqHtPoOIBvooBzj0Bq3Kxllju7KS_ZT7-ww?e=rg0ydr)
