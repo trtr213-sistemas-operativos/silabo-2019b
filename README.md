@@ -155,6 +155,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿De que manera mejorará en las siguientes actualizaciones?
     * ¿Qué distribuciones de Linux puedo instalar?
     * Pasos para activar esta característica
+  * [Repaso](https://forms.gle/zhneancizWzY3euz5)
 
 <!--- 
 
