@@ -145,6 +145,16 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 19 - Redirección de E/S y Tuberias
   * Práctica Redirección de E/S y Tuberias
+  
+### Clase 21 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
+  * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
+    * ¿Qué es?
+    * ¿Desde cuando está disponible?
+    * ¿Porqué Microsoft incluyó esta característica en Windows?
+    * ¿Qué problemas ha tenido el WSL y como los ha solucionado Microsoft?
+    * ¿De que manera mejorará en las siguientes actualizaciones?
+    * ¿Qué distribuciones de Linux puedo instalar?
+    * Pasos para activar esta característica
 
 <!--- 
 
@@ -158,16 +168,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    1. Sistema de respaldo y restauración en Windows y Linux
    1. Soluciones a problemas comunes en Windows y Linux
    1. Debian vs RedHat y Ubuntu vs Fedora
-   
-### Clase 21 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
-  * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
-    * ¿Qué es?
-    * ¿Desde cuando está disponible?
-    * ¿Porqué Microsoft incluyó esta característica en Windows?
-    * ¿Qué problemas ha tenido el WSL y como los ha solucionado Microsoft?
-    * ¿De que manera mejorará en las siguientes actualizaciones?
-    * ¿Qué distribuciones de Linux puedo instalar?
-    * Pasos para activar esta característica
+  
 
 ### Clase 22 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
