@@ -157,19 +157,16 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * Pasos para activar esta característica
   * [Repaso](https://forms.gle/zhneancizWzY3euz5)
 
-<!--- 
-
- ### Clase 20 - Gestión de Usuarios
+### Clase 20 - Gestión de Usuarios
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
   * **Temas de proyectos finales**
    1. Instalación de doble booteo con Windows y Linux desde un USB
    1. Herramientas para partición de discos en Windows y Linux
-   1. Herramientas para clonación de discos en Windows y Linux
    1. Herramientas de control y acceso remoto en Windows y Linux
-   1. Sistema de respaldo y restauración en Windows y Linux
-   1. Soluciones a problemas comunes en Windows y Linux
-   1. Debian vs RedHat y Ubuntu vs Fedora
-  
+   1. Sistema de clonación, respaldo y restauración en Windows y Linux
+   1. Cómo configurar un antivirus correctamente y cómo crear un virus troyano
+   
+<!---  
 
 ### Clase 22 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
