@@ -166,16 +166,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    1. Sistema de clonación, respaldo y restauración en Windows y Linux
    1. Cómo configurar un antivirus correctamente y cómo crear un virus troyano
    
-<!---  
+
 
 ### Clase 22 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
-  * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaY3TGf4LBRCj0Ekn81GOTwBOeTMNh9Y0e72KH0RfdIsOA?e=HvVSNH)
-  * Juego en la terminal de Linux. Ejecutar:
-    * `cd ~`
-    * `sudo apt install git`
-    * `git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl`
-    * `cat bashcrawl/README.txt` Seguir las instrucciones.
   * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
     * ¿Qué determina si una computadora es de 32 bits o de 64 bits?
     * ¿Qué cantidad de RAM soporta un sistma de 32 bits y uno de 64 bits?
@@ -186,6 +180,28 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
     * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
 
+
+  ### Prueba (31/01/2020)
+
+  ### Configuración de máquinas para proyectos (10/02/2020)
+  
+  ### Presentaciones finales (14/02/2020)
+  
+  ### Presentaciones finales (17/02/2020)
+  
+  ### Repaso (21/02/2020)
+  
+  ### Examen (28/02/2020)
+  
+<!---  
+
+* Juego en la terminal de Linux. Ejecutar:
+    * `cd ~`
+    * `sudo apt install git`
+    * `git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl`
+    * `cat bashcrawl/README.txt` Seguir las instrucciones.
+    
+    
 ### Clase 23 - Gestión de memoria
   * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQpEg3qg8jJAkImszyRCvRABMn554n9M-P_mlNSGEVZq0w?e=vKIkI1)
   * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
