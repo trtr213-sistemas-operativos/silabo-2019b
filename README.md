@@ -166,8 +166,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    1. Sistema de clonación, respaldo y restauración en Windows y Linux
    1. Cómo configurar un antivirus correctamente y cómo crear un virus troyano
    
-
-
 ### Clase 22 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbFI6lm1uGpNjIaGtAzMfFIB5zAjFPCgVcaL2CUmgcGanA?e=2Fu5Pj)
   * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
@@ -180,8 +178,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
     * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
 
-
-  ### Prueba (31/01/2020)
+ ### Clase 23 - Planificador de Procesos (21-01-2020)
+  * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
+ 
+ ### Prueba (31/01/2020)
 
   ### Configuración de máquinas para proyectos (10/02/2020)
   
