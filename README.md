@@ -181,17 +181,42 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
  ### Clase 23 - Planificador de Procesos (21-01-2020)
   * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EV-KzKaycIZMtpCSSayk9lABn_ck6CGSskRyB6LlUDn-wQ?e=eIMuei)
  
- ### Prueba (31/01/2020)
+### Clase 24 - Gestión de memoria (22-01-2020)
+  * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQpEg3qg8jJAkImszyRCvRABMn554n9M-P_mlNSGEVZq0w?e=vKIkI1)
 
-  ### Configuración de máquinas para proyectos (10/02/2020)
+ ### Clase 25 - Gestión de Usuarios (27-01-2020)
+   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
+ 
+ ### Clase 26 - Gestion de permisos (28-01-2020)
+   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQoq8Rq2ST1EqHtPoOIBvooBzj0Bq3Kxllju7KS_ZT7-ww?e=rg0ydr)
   
-  ### Presentaciones finales (14/02/2020)
+ ### Clase 27 - Prueba (03-02-2020)
+
+
+ ### Clase 28 - Servidores (04-02-2020)
+  * [Configuración inicial Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ0C4ZCmyIJHiyDj8FIPZXMBBihEpbYDsNFaCfaOmwU1xA?e=1wdSAy)
+  * [Instalación de LAMPP en Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eeb7MKEWBexGp8SmnA1CFzsBbAiWwVoCNqbbE9MwLy0KpQ?e=xpNeiD)
+  * [Guía bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EZZs53U8XgpApFUmrAHW-S0BgpMQLSF2Wm5DAaxeMK1BmA?e=orj0vF)
+  * Copia de archivos remotos (SCP) [Guía de comando SCP](http://www.hypexr.org/linux_scp_help.php)
   
-  ### Presentaciones finales (17/02/2020)
-  
-  ### Repaso (21/02/2020)
-  
-  ### Examen (28/02/2020)
+ ### Clase 29 - Preparación Proyectos (10-02-2020)
+   * 
+
+ ### Clase 30 - Presentación Proyectos (11-02-2020)
+   * 
+   
+ ### Clase 31 - Presentación Proyectos (17-02-2020)
+   *   
+
+ ### Clase 32 - Presentación Proyectos (18-02-2020)
+   *   
+   
+ ### Clase 33 - Repaso (24-02-2020)
+   *   
+   
+ ### Clase 34 - Examen (25-02-2020)
+   *   
+    
   
 <!---  
 
