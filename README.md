@@ -191,6 +191,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQoq8Rq2ST1EqHtPoOIBvooBzj0Bq3Kxllju7KS_ZT7-ww?e=rg0ydr)
   
  ### Clase 27 - Prueba (03-02-2020)
+   * [Prueba](https://forms.gle/t8J6L5MoFGzAPjY28)
 
 
  ### Clase 28 - Servidores (04-02-2020)
