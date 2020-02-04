@@ -195,6 +195,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
  ### Clase 28 - Servidores (04-02-2020)
+  * [Prueba con terminal](https://forms.gle/T2gakXMBuXRpnHG97)
   * [Configuración inicial Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ0C4ZCmyIJHiyDj8FIPZXMBBihEpbYDsNFaCfaOmwU1xA?e=1wdSAy)
   * [Instalación de LAMPP en Ubuntu Server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eeb7MKEWBexGp8SmnA1CFzsBbAiWwVoCNqbbE9MwLy0KpQ?e=xpNeiD)
   * [Guía bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EZZs53U8XgpApFUmrAHW-S0BgpMQLSF2Wm5DAaxeMK1BmA?e=orj0vF)
